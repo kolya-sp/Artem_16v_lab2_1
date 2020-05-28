@@ -1,0 +1,7 @@
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\ArtemVar16Lab2\lab2_1\bin\Debug\lab2_1.exe.config
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\ArtemVar16Lab2\lab2_1\bin\Debug\lab2_1.exe
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\ArtemVar16Lab2\lab2_1\bin\Debug\lab2_1.pdb
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\ArtemVar16Lab2\lab2_1\obj\Debug\lab2_1.csprojAssemblyReference.cache
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\ArtemVar16Lab2\lab2_1\obj\Debug\lab2_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\ArtemVar16Lab2\lab2_1\obj\Debug\lab2_1.exe
+C:\Users\user\Documents\учебники и задания\ОП\lab_2_semestr\ArtemVar16Lab2\lab2_1\obj\Debug\lab2_1.pdb
